@@ -1,7 +1,10 @@
 # Prueba Final - Limpieza de Datos
 Tema: Creacion de una CNN para reconocimiento de tipos de carnes
+
 Maestria: Ciberseguridad
+
 Estudiante: Andres Fernando Cardenas Ponce - 1805369194
+
 Dataset: https://drive.google.com/file/d/1Z5DJ-MVS1TQV1kow9mIFWTec-ZdOLRLF/view?usp=sharing
 
 # Metodologia
